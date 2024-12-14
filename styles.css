@@ -1,0 +1,105 @@
+div.headest
+{
+margin-top: -8px;
+background-image:url('banner.png');
+ height: 30%; 
+background-position:center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ position: relative;
+
+}
+
+div.vider
+{
+  width: 385px;
+  height: 363px;
+  border-style:groove;
+   border-color: #003459;
+    background-color: #007ea7; 
+     float: left; 
+     width: 450px;
+     margin-bottom: 100px;
+}
+
+
+p.ban
+{
+color:black;
+font-family:arial;
+text-transform:uppercase;
+font-weight: thick;
+}
+
+img.display
+{
+width:1080px;
+border-style:outset;
+border-width:thick;  
+border-color:black;
+margin-left:31px;
+}
+font.head
+{
+color: skyblue;
+}
+
+p.header
+{
+font-weight:bold;
+color:white;
+font-size:15px;
+position: fixed;
+bottom:0;
+
+background-color:#007ea7;
+
+margin-bottom: 0px;
+margin-left: -8px;
+margin-right: -8px;
+
+border-top:outset;
+border-width:thick;  
+border-color:black;
+
+
+}
+
+p.menu
+{
+
+font-weight:bold;
+color:white;
+font-size:45.1px;
+
+background-color:#007ea7;
+
+border-bottom:outset;
+border-top:outset;
+border-width:thick;  
+border-color:black;
+
+margin-top: 0px;
+margin-left:-8px;
+margin-right:-8px;
+}
+
+body {
+height:100%;
+    background-image: url('tech.jpg');
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+
+a
+{
+font-family: arial;
+text-decoration:none;
+color: white;
+text-shadow: 0px 0px 15px gray, 0px 0px 15px gray;
+}
+
+
+/*This is a CSS comment */
